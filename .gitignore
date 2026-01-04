@@ -361,3 +361,14 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+# GLFW
+!libs/glfw3.dll
+*.exe
+*.dll
+*.lib
+*.exp
+
+# RenderDoc
+*.rdc
+*.nvuser
